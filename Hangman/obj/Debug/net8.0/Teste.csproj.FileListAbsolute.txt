@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\bin\Debug\net8.0\Teste.exe
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\bin\Debug\net8.0\Teste.deps.json
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\bin\Debug\net8.0\Teste.dll
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\bin\Debug\net8.0\Teste.pdb
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.dll
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.pdb
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documentos\Programming\Jogo da Forca\obj\Debug\net8.0\ref\Teste.dll
